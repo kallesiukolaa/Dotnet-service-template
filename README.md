@@ -4,6 +4,7 @@ From https://medium.com/@iqan/containerizing-a-net-core-service-with-docker-cd9b
 If you want to build without Docker run in csproj folder
 
 ```console
+cd \MyDocker
 dotnet restore
 dotnet build
 ```
