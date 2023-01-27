@@ -35,3 +35,4 @@ If you want to run image
 ```console
 docker run mydocker
 ```
+More abut donet images https://hub.docker.com/_/microsoft-dotnet-sdk
